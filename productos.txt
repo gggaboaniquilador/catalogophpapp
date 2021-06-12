@@ -1,0 +1,6 @@
+﻿1,Pan de Jamón,1500,bread4.jpg
+2,Campesino Redondo,200,bread5.jpg
+3,Peguetas Dulces,400,bread6.jpg
+4,Pan de Molde,300,bread7.jpg
+5,Pan Árabe,350,bread8.jpg
+6,Pan Canilla,75,bread9.jpg
